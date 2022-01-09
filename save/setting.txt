@@ -1,0 +1,7 @@
+simulationDuration: 25.0
+dt: 0.001
+numberOfStar: 5000
+softenningCoef: 0.200
+counterCapture: 15
+numberOfThread: 4
+reloadSimulation(0=no/1=yes): 0
